@@ -1,0 +1,13 @@
+{
+"web" : {
+  "port" : 8000
+},
+"queue" : {
+  "size" : 64
+},
+"object" : {
+  "index" : 0,
+  "open" : {
+  }
+}
+}

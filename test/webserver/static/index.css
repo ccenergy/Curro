@@ -1,0 +1,8 @@
+﻿body { font-family: Helvetica;}
+div, ol { margin: 20px; }
+input, button { margin: 5px; }
+.header { font-size: 26px; font-weight: 700; }
+.footer, .copyright { display: none; }
+.content { padding: 5px;  max-width: 640px; background-color: #CCCCCC;}
+.indicator { font-size: 20px; min-height: 20px;}
+.result { min-width: 120px; height: 200px; overflow-y:scroll;background-color: #FFFFFF;}
