@@ -1,0 +1,22 @@
+Curro v0.1 PRE-ALPHA
+
+Description:
+Curro is a web server framework that allows python object attribute access as JSON-RPCs.
+
+THIS VERSION IS PRE-ALPHA AND IS SUBJECT TO CHANGE.
+
+Demo:
+python objectserver.py
+
+Demo URL:
+http://localhost:8000 
+
+Demo Dependencies:
+json2
+jQuery 1.4.4
+
+Curro Requirements:
+Python 2.6+
+
+License:
+MIT License
